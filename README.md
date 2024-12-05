@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/893384417.svg)](https://doi.org/10.5281/zenodo.14277159)
 
+Dataset regarding BrokenStitches defect has been uploaded alongside the code
+
+rest of the data can be accessed using the DOI given below
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14279942.svg)](https://doi.org/10.5281/zenodo.14279942)
 
 
 
